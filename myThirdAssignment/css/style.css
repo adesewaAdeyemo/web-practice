@@ -1,0 +1,51 @@
+body{background-image: url("../image/dr_normand.jpg"),linear-gradient( rgb(109, 109, 233),rgb(224, 224, 245));
+    background-size: cover;
+    height: 100vh;
+    font-size: small; 
+    font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+text-align: center; 
+}
+fieldset{background-color: rgb(27, 27, 41);
+    width: 50%;
+    text-align: start;
+    color: aliceblue;
+    
+    margin: auto;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px; 
+   
+}
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+select,
+textarea{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: left;
+    break-inside: avoid;
+}
+input[type='checkbox'],
+input[type='radio'] {
+    width: auto
+}
+button{
+    background-color: green;
+    margin: auto;
+    padding: 1%;
+    width: 100%;
+    display: block;
+}
+textarea{
+    resize: none;
+}

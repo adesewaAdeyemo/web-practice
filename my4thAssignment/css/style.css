@@ -1,0 +1,22 @@
+
+head,
+h1,
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+.div{
+    padding: 10px;
+    padding-top: 20px;
+    background-color: rgb(68, 115, 216);
+    text-align: center;
+}
+.foot{
+    color: azure;
+}
